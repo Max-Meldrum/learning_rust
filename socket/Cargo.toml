@@ -1,0 +1,6 @@
+[package]
+name = "socket"
+version = "0.1.0"
+authors = ["Max Meldrum <max@meldrum.se>"]
+
+[dependencies]
